@@ -1,6 +1,6 @@
 # Brayan.github.io
 
-Welcome To My Repository
+Welcome To My Porfolio
 
 Hello, Class CIS245, My name is Brayan Rosario, I'm Currently student at (https://github.com/brayan2416/Brayan.github.io/edit/gh-pages/docs/index.md), I'm going for IT major along of this journey I have taken an withouth number of computer classes such as Network 1,2 and 3 also intro to linux and data management.
 
